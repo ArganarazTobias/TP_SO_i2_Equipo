@@ -8,3 +8,11 @@ Si, GAMMA puede actualizar el estado del fork de ALFA
 d-¿Los datos que tenía en mi repositorio , editados por mi, se pierden si quiero actualizar
 el fork?
 No.
+
+e- realizar un listado, paso a paso ,de los comando necesarios para resolver este TP por
+orden de ejecución de los mismos junto con los apellidos y nombre de los alumnos 
+
+para clonar el repo = git clone (link de la pagina)
+para agregar el archivo en el repo = git add. datos.txt
+para crear un mensaje de actualización del archivo = git commit -m "agregar mensaje"
+para subir el archivo al repo = git push
